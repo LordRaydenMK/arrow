@@ -192,6 +192,9 @@ options:
       - title: MonadError
         url: /docs/typeclasses/monaderror/
 
+      - title: Bracket
+        url: /docs/typeclasses/bracket/
+
       - title: MonadFilter
         url: /docs/typeclasses/monadfilter/
 
@@ -280,6 +283,12 @@ options:
 
       - title: Traversal
         url: /docs/optics/traversal/
+
+      - title: Cons
+        url: /docs/optics/cons
+
+      - title: Snoc
+        url: /docs/optics/snoc/
 
       - title: At
         url: /docs/optics/at/
